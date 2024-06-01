@@ -20,7 +20,7 @@
         </a>
         <!-- React -->
         <a href="https://github.com/FGAT3?tab=repositories" target="_blank"><img alt="React"
-                        src="https://img.shields.io/badge/-React-02cdf1?style=flat-square&logo=React&logoColor=white">
+                        src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=React&logoColor=white">
         </a>
         <img src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=flat" />
   <img src="https://img.shields.io/badge/-ReactJs-white?logo=react&logoColor=white&style=flat" />
