@@ -28,9 +28,9 @@ You can click on Codewars to see my profile 😉
 
 ## 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴
 
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-%231a202c?style=flat-square&logo=tailwind-css)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![Next.js](https://img.shields.io/badge/-Next.js-%23000000?style=flat-square&logo=nextdotjs)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-%231a202c?style=flat&logo=tailwind-css)
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/-Next.js-%23000000?style=flat&logo=nextdotjs)
 
 
 ## 𝗦𝘁𝗮𝘁𝘀
